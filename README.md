@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I’m Lealem
 
-<!--
-**LealemTse/LealemTse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I’m a **Software Engineering student** passionate about building practical, real-world projects across web development, systems programming, networking, and computer graphics. I enjoy exploring how software works behind the scenes — from low-level Git internals to 3D rendering and database system design.
 
-Here are some ideas to get you started:
+👀 What I’m Interested In 🌐 Full-Stack Web Development,🗄️ Databases & System Design, ⚙️ Data Structures & Algorithm, 🛠️ System-Level Projects,📡 Networking & Infrastructure, 🎮 3D / Creative Coding
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+🧰 Languages & Tools
+**C++| C| Python | Java | JavaScript | HTML/CSS | SQL | Three.js | Node.js | Git | LaTeX | Linux | FusionCompute |Bash**
+
+
+
+
+<!---
+- ⚡ Fun fact:
+LealemTse/LealemTse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
