@@ -1,6 +1,7 @@
 # 👋 Hi, I’m Lealem
+Look around ⚡
 
-🌱 I’m a **Software Engineering student** passionate about building practical, real-world projects across web development, systems programming, networking, and computer graphics. I enjoy exploring how software works behind the scenes — from low-level Git internals to 3D rendering and database system design.
+<!--🌱 I’m a **Software Engineering student** passionate about building practical, real-world projects across web development, systems programming, networking, and computer graphics. I enjoy exploring how software works behind the scenes — from low-level Git internals to 3D rendering and database system design.
 
 👀 What I’m Interested In 
 
@@ -25,7 +26,6 @@
 
 
 
-<!---
 - ⚡ Fun fact:
 LealemTse/LealemTse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
