@@ -1,7 +1,7 @@
 <h2 align="center">Hey There👋, Welcome to My Github Zone!</h2>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=mesertgetch&label=Profile%20views&color=0e75b6&style=flat" alt="Lealem Tsehay" />
+  <img src="https://komarev.com/ghpvc/?username=mesertgetch&label=Profile%20views&color=0e75b6&style=flat" alt="Meseret Getachew" />
 </p>
 
 
@@ -46,7 +46,7 @@
 
 | Most used languages                                                                                                                      |
 | ---------------------------------------------------------------------------------------------------------------------------------------- | 
-| ![Top Langs](https://github-readme-stats-zeta-three-35.vercel.app/api/top-langs?username=lealemtse&layout=compact&theme=transparent&langs_count=12&count_private=true&cache_seconds=86400) 
+| ![Top Langs](https://github-readme-stats-zeta-three-35.vercel.app/api/top-langs?username=mesertgetch&layout=compact&theme=transparent&langs_count=12&count_private=true&cache_seconds=86400) 
 
 
 
