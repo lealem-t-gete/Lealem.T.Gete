@@ -34,7 +34,6 @@
   <img src="https://img.shields.io/badge/TensorFlow-ff8f00?logo=tensorflow&style=for-the-badge&logoColor=white" alt="TensorFlow"/>
   <img src="https://img.shields.io/badge/Three.js-000?logo=threedotjs&logoColor=fff&style=for-the-badge" alt="Three.js"/>
   <img src="https://img.shields.io/badge/LaTeX-00A0A0?logo=latex&logoColor=fff&style=for-the-badge" alt=""/>
-  <img src="https://img.shields.io/badge/GNU-000000?logo=gnu&logoColor=white&style=for-the-badge" alt="GNU"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" alt="Linux"/>
 </p>
 
